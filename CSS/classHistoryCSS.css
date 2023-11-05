@@ -1,0 +1,12 @@
+.hide {
+    display: none;
+}
+
+.classHover:hover {
+    color: purple;
+}
+
+.classHover:hover + .hide {
+    display: block;
+    color: black;
+}
