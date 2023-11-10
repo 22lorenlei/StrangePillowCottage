@@ -1,11 +1,16 @@
-button.navigationButtonHover:hover {
+button.navigationButtonHover:hover 
+{
     background-color:purple;
 }
 
-h1.centerText {
+h1.centerText 
+{
     text-align: center;
 }
 
-p.centerText {
+p.centerText 
+{
     text-align: center;
 }
+
+
