@@ -13,4 +13,19 @@ p.centerText
     text-align: center;
 }
 
+.petalBackground
+{
+    background-image: url("../IMG/sakuraPetalsFalling.gif");
+    background-color: transparent;
+}
+
+div.navigationPadding
+{
+    padding-bottom: 20px;
+}
+
+div.titlePadding
+{
+    padding-top: 20px;
+}
 
