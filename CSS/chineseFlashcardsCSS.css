@@ -1,0 +1,34 @@
+.flashCard {
+    border-style: solid;
+    border-color: purple;
+    border-width: 3px;
+}
+
+.title {
+    margin: 10px auto;
+    text-align: center;
+}
+
+#flipButton {
+    text-align: center;
+}
+
+#nextButton {
+    text-align: center;
+}
+
+#homeButton {
+    text-align: center;
+}
+
+#primary {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+
+#secondary {
+    text-align: center;
+    color: purple;
+    font-size: 30px;
+}
